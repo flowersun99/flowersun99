@@ -1,1 +1,1 @@
-[![Solved.ac jean8291](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/jean8291)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jean8291)](https://solved.ac/jean8291)
