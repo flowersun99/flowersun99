@@ -1,5 +1,5 @@
-🖐️Hi there! I'm Industrial Engineering Student who is interested in front-end and back-end🚀
-Currently, I am studying object-oriented programming while creating a project based on nodejs😊
+🖐️Hi there! I'm Industrial Engineering Student who is interested in AI🚀
+Currently, I am studying network programming and LLM😊
 
 I hope to improve the quality of life for many people with my codes🫡
 
