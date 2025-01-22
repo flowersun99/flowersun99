@@ -1,5 +1,5 @@
-🖐️Hi there! I'm Industrial Engineering Student who is interested in AI🚀
-Currently, I am studying network programming and LLM😊
+🖐️Hi there! AI Engineer who is interested in AI🚀
+Currently, I am studying Multi-Task Learning and LLM😊
 
 I hope to improve the quality of life for many people with my codes🫡
 
